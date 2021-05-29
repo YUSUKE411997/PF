@@ -25,12 +25,12 @@
 気持ちに共感を得て欲しい時
 
 ## 設計書
-ER図
-https://app.diagrams.net/#G1rOGHc2UKksl_D3d_kBm3OAD1G2Wjui7l
-テーブル定義書
-https://docs.google.com/spreadsheets/d/1PTFXG8k77SbmS_9Tf4PwPwYl3NyCmDTP-uYDQjlgl_A/edit#gid=1658977349
-詳細設計
-https://docs.google.com/spreadsheets/d/1moCRso_14LOik8zKSRHhCpA4BTvvg0H9Cz1Mh5PUmG4/edit#gid=1691749220
+ER図　　
+https://app.diagrams.net/#G1rOGHc2UKksl_D3d_kBm3OAD1G2Wjui7l　　
+テーブル定義書　　
+https://docs.google.com/spreadsheets/d/1PTFXG8k77SbmS_9Tf4PwPwYl3NyCmDTP-uYDQjlgl_A/edit#gid=1658977349　　
+詳細設計　　
+https://docs.google.com/spreadsheets/d/1moCRso_14LOik8zKSRHhCpA4BTvvg0H9Cz1Mh5PUmG4/edit#gid=1691749220　　
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1VG5Y7x8891qPpJAbR8QjmZ2yJOvPXqECHvnybG1uhcw/edit#gid=0
