@@ -30,10 +30,10 @@
 気持ちに共感を得て欲しい時  
 
 ## 設計書
-画面設計
-https://docs.google.com/spreadsheets/d/1qb8cQ797p0gBcYPZbN4am8_QPEv4iGqZg2l5kxim7Kk/edit#gid=0
-画面遷移図
-https://app.diagrams.net/#G16LJ8hLYMzaWq36eX9KiscTcziwP0PGkE
+画面設計  
+https://docs.google.com/spreadsheets/d/1qb8cQ797p0gBcYPZbN4am8_QPEv4iGqZg2l5kxim7Kk/edit#gid=0  
+画面遷移図  
+https://app.diagrams.net/#G16LJ8hLYMzaWq36eX9KiscTcziwP0PGkE  
 ER図  
 https://app.diagrams.net/#G1rOGHc2UKksl_D3d_kBm3OAD1G2Wjui7l  
 テーブル定義書  
