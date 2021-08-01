@@ -26,6 +26,7 @@
 やりたい事が見つからない人で、どんな仕事があるのか知りたい時  
 気持ちに共感を得て欲しい時  
 
+
 ## 設計書
 画面設計  
 https://docs.google.com/spreadsheets/d/1qb8cQ797p0gBcYPZbN4am8_QPEv4iGqZg2l5kxim7Kk/edit#gid=0  
